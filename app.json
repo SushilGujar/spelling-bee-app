@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "spelling-bee-app",
+    "slug": "spelling-bee-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "spelling-bee-app"
+}
